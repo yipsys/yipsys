@@ -3,13 +3,13 @@ Hi there, I'm yip/sornin 👋
 I am a hybrid Software Engineer and Independent Security Reviewer specializing in securing complex systems and Game Security Engineering. I bridge the gap between building high-performance software and auditing it for critical vulnerabilities.
 
 🛡️ What I Do
-* Security Reviews:** Independent source code auditing, threat modeling, and vulnerability assessments.
+* Security Reviews: Independent source code auditing, threat modeling, and vulnerability assessments.
 * Software Engineering: Writing clean, scalable, and highly optimized code (C++, Rust, Go, Python).
 * Game Security: Reverse engineering, anti-cheat analysis, memory protection, and exploit mitigation.
 
  🛠️ Tech Stack
 * Languages: Everything you can think of
-* Tools & Frameworks:* Everything and anything
+* Tools & Frameworks: Everything and anything
 * Specialties: Game Engine Security, Kernel-level Engineering, Cryptography, Application Security
 
 
